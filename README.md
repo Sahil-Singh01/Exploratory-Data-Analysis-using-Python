@@ -103,25 +103,6 @@ This project tackles that by transforming raw data into **clear, interpretable i
 
 ---
 
-## 🧪 How to Run This Project
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/cybersecurity-eda.git
-
-# Navigate into the project
-cd cybersecurity-eda
-
-# Install dependencies
-pip install pandas numpy matplotlib seaborn
-
-# Launch notebook
-jupyter notebook
-```
-
----
-
-
 ##  Author
 
 **Sahil**
